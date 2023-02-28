@@ -11,6 +11,9 @@ encouraged to register with myroms.org for access to the forum where
 this code is discussed.
 
 Some files were modified to use the intel OneAPI Compiler.
+Linux-ifort.mk were change from mpif90 to mpiifort. After that
+we can also use the Intel® Trace Analyzer and Collector and Intel® 
+VTune™ Profiler to get a better performance
 
 Yanqiang Wang 
 itxiaoqiang@gmail.com
